@@ -1,0 +1,7 @@
+{
+    "title": "前端那些事",
+    "description": "一个前端的故事",
+    "author": "amujoe",
+    "direction" : "ltr",
+    "root": "src"
+}
