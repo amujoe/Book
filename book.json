@@ -4,5 +4,20 @@
     "author": "amujoe",
     "direction" : "ltr",
     "root": "src",
-    "output": "docs"
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "-search",
+        "-sharing",
+        "chapter-fold",
+        "github",
+        "pageview-count"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/amujoe"
+        }
+    }
+      
 }
