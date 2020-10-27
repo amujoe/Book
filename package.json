@@ -1,0 +1,20 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "a book",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve ./src ./docs",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amujoe/Book.git"
+  },
+  "author": "amujoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amujoe/Book/issues"
+  },
+  "homepage": "https://github.com/amujoe/Book#readme"
+}

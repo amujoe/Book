@@ -3,5 +3,6 @@
     "description": "一个前端的故事",
     "author": "amujoe",
     "direction" : "ltr",
-    "root": "src"
+    "root": "src",
+    "output": "docs"
 }
