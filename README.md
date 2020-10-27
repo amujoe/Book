@@ -1,10 +1,2 @@
-# Book
-a book about front-end
+# Introduction
 
-
-
-go
-
-go
-
-go
