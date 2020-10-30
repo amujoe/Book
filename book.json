@@ -8,15 +8,21 @@
         "website": "styles/website.css"
     },
     "plugins": [
-        "-search",
         "-sharing",
+        "back-to-top-button",
         "chapter-fold",
         "github",
-        "pageview-count"
+        "pageview-count",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/amujoe"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy xxxx.com 2017",
+            "modify_label": "该文件修订时间：2020年2月1日",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
       
