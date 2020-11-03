@@ -4,6 +4,7 @@
   "description": "a book",
   "main": "index.js",
   "scripts": {
+    "install": "gitbook install",
     "serve": "gitbook serve",
     "build": "gitbook build",
     "publish": "git subtree push --prefix=_book origin gh-pages"
@@ -17,5 +18,16 @@
   "bugs": {
     "url": "https://github.com/amujoe/Book/issues"
   },
-  "homepage": "https://github.com/amujoe/Book#readme"
+  "homepage": "https://github.com/amujoe/Book#readme",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-pageview-count": "^1.0.1",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-splitter": "0.0.8",
+    "gitbook-plugin-tbfed-pagefooter": "0.0.1",
+    "gitbook-plugin-toggle-chapters": "0.0.3"
+  }
 }

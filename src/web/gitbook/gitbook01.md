@@ -34,6 +34,8 @@
 ####
 
 #### chapter-fold 导航目录折叠
+注意: 想要折叠目录, summary.md 必须如下
+
 #### code 代码添加行号&复制按钮
 #### copy-code-button 代码复制按钮
 #### github 在右上角添加github图标
@@ -82,5 +84,9 @@
 }
 ```
 
-####
+
+
+
+
+#### expandable-chapters 
 ####
