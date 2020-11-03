@@ -4,7 +4,7 @@
     "author": "amujoe",
     "language" : "zh-hans",
     "direction" : "ltr",
-    "root": "src",
+    "root": "",
     "styles": {
         "website": "styles/website.css"
     },
