@@ -18,10 +18,16 @@
         "splitter",
         "github",
         "pageview-count",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "valine"
     ],
     "pluginsConfig": {
         "chapter-fold":{},
+        "valine": {
+            "appId": "WSNClLn5HMcSQEIr0kA2FIth-gzGzoHsz",
+            "appKey": "WSNClLn5HMcSQEIr0kA2FIth-gzGzoHsz",
+            "placeholder":"骚客, 你来啦"
+        },
         "github": {
             "url": "https://github.com/amujoe"
         },
