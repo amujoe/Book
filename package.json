@@ -4,8 +4,9 @@
   "description": "a book",
   "main": "index.js",
   "scripts": {
-    "serve": "gitbook serve ./src ./docs",
-    "build": "gitbook build"
+    "serve": "gitbook serve",
+    "build": "gitbook build",
+    "publish": "git subtree push --prefix=_book origin gh-pages"
   },
   "repository": {
     "type": "git",
