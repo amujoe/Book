@@ -19,6 +19,6 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: deploy
-        uses: tuliren/publish-gitbook@v1.0.0
+        uses: ZanderZhao/gitbook-action@v1.2.4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
